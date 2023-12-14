@@ -1,0 +1,28 @@
+{
+  "name": "simple-rtp-parser",
+  "version": "1.0.0",
+  "description": "A lightweight RTP (Real-time Transport Protocol) packet parsing tool for Node.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salihonder05/simple-rtp-parser.git"
+  },
+  "keywords": [
+    "rtp",
+    "rtp",
+    "parser",
+    "node",
+    "rtp",
+    "parser"
+  ],
+  "author": "Salih ÖNDER",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/salihonder05/simple-rtp-parser/issues"
+  },
+  "homepage": "https://github.com/salihonder05/simple-rtp-parser#readme",
+  "type": "commonjs"
+}
