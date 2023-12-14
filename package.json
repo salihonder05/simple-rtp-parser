@@ -1,6 +1,6 @@
 {
   "name": "simple-rtp-parser",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lightweight RTP (Real-time Transport Protocol) packet parsing tool for Node.js.",
   "main": "index.js",
   "scripts": {
@@ -23,6 +23,6 @@
   "bugs": {
     "url": "https://github.com/salihonder05/simple-rtp-parser/issues"
   },
-  "homepage": "https://github.com/salihonder05/simple-rtp-parser#readme",
+  "homepage": "https://salihonder.com/",
   "type": "commonjs"
 }
